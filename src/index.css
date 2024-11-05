@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&family=Roboto+Slab:wght@100..900&display=swap');
+
+*{
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+.Home__page{
+    background-color: #f0f0f0;
+}
+
+.Home__page .Hover__item:hover{
+    transform: scale(1.05); 
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.5);
+}
+
+.Home__page .button:hover{
+    background-color: #1976d2;
+    color: whitesmoke;
+}
+
+.button:hover{
+    background-color: #1976d2;
+    color: whitesmoke;
+}
+
+.button-hover-reverse:hover{
+    background-color: whitesmoke;
+    color: #1976d2;
+    border: solid #1976d2 2px;
+}
+
+.connect-button:hover{
+    color: #FFD58B;
+    background-color: whitesmoke;
+    border: solid #FFD58B 2px;
+}
+
+.hoverEffect {
+    text-decoration: none;
+    color: black;
+}
+.hoverEffect:hover {
+    color: #1976d2;
+}
