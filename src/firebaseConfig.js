@@ -8,7 +8,7 @@ import { getStorage } from "firebase/storage";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBztJqny43ptDGPQtJRwzgsZOW12yV6Fq4",
+  apiKey: "contact-me-for-api",
   authDomain: "wellnest-fc1e7.firebaseapp.com",
   projectId: "wellnest-fc1e7",
   storageBucket: "wellnest-fc1e7.appspot.com",
